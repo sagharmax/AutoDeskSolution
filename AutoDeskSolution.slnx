@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AutoDeskApp/AutoDeskApp.csproj" />
+  <Project Path="ConsoleApp/ConsoleApp.csproj" />
+</Solution>
